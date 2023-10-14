@@ -1,0 +1,12 @@
+numpy
+pandas
+seaborn
+matplotlib
+pymongo
+xgboost
+joblib
+flask
+pydantic
+Jinja2
+requests
+gunicorn
